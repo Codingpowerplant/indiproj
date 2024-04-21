@@ -1,1 +1,1 @@
-ITs rough around the edges but i've tried it smooth it as much .
+It is still rough around the edges but i've tried to smooth it as much .
